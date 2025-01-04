@@ -1,0 +1,4 @@
+1. Buka ekstrak kodingan pertemuan 8 tersebut
+2. Lalu ikutin langkah ytb buat connect in firebasenya : https://youtu.be/rFTJTLdoGDY?si=vmceVQCnV9eY2W7N
+3. Lalu ikuti connect realtimenya : https://youtu.be/miJooBq9iwE?si=kQxmRZ1wBLYOlOXy
+4. Lalu aplikasi siap dijalankan

@@ -1,0 +1,5 @@
+1. Gunakan Project Kodingan Pertemuan 8 berikut : shorturl.at/myBUg
+2. Copy kodingan AdapterPekerjaan, ModelPekerjaan, ActivityPekerjaan, Layout item_pekerjaan.xml, upload_dialog Pertemuan 9 : shorturl.at/15ARR, ke Project Kodingan Pertemuan 8.
+3. Copy izin google-services.json berikut : shorturl.at/k9YMT, Paste kan di google-services.json yang ada di pertemuan 8 tersebut.
+4. Lalu tambahkan dependecies glide, dengan cara buka modul pmob pertemuan 9 bagian langkah praktikum, disana terdapat perintah untuk memasukkan import glide nya kalian copy lalu tambahkan pada build.gradle(module:app)
+5. Lalu kodingan pertemuan 8 tersebut siap untuk di jalankan.
